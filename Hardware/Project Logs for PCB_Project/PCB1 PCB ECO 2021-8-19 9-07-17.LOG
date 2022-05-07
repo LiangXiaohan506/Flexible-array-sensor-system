@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB12/A Pin=U2-33
+Removed Pin From Net: NetName=PB13/B Pin=U2-34
+Removed Pin From Net: NetName=PB14/C Pin=U2-35
+Removed Pin From Net: NetName=PB15/D Pin=U2-36
+Added Pin To Net: NetName=PB15/D Pin=U2-50
+Added Pin To Net: NetName=PB14/C Pin=U2-51
+Added Pin To Net: NetName=PB13/B Pin=U2-52
+Added Pin To Net: NetName=PB12/A Pin=U2-53
+Added Room: Name=Sheet2

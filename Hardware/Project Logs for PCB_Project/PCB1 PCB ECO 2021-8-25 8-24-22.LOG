@@ -1,0 +1,606 @@
+Removed Pin From Net: NetName=VC12 Pin=IC1-1
+Removed Pin From Net: NetName=VC11 Pin=IC1-2
+Removed Pin From Net: NetName=VC10 Pin=IC1-3
+Removed Pin From Net: NetName=VC9 Pin=IC1-4
+Removed Pin From Net: NetName=VC8 Pin=IC1-5
+Removed Pin From Net: NetName=VC7 Pin=IC1-6
+Removed Pin From Net: NetName=VC6 Pin=IC1-7
+Removed Pin From Net: NetName=VC5 Pin=IC1-8
+Removed Pin From Net: NetName=VC4 Pin=IC1-9
+Removed Pin From Net: NetName=VC3 Pin=IC1-10
+Removed Pin From Net: NetName=VC2 Pin=IC1-11
+Removed Pin From Net: NetName=GND Pin=IC1-12
+Removed Pin From Net: NetName=VC1 Pin=IC1-13
+Removed Pin From Net: NetName=VC0 Pin=IC1-14
+Removed Pin From Net: NetName=PB8/G1 Pin=IC1-18
+Removed Pin From Net: NetName=PB8/G1 Pin=IC1-19
+Removed Pin From Net: NetName=+5 Pin=IC1-24
+Removed Pin From Net: NetName=VC38 Pin=IC3-1
+Removed Pin From Net: NetName=VC37 Pin=IC3-2
+Removed Pin From Net: NetName=VC36 Pin=IC3-3
+Removed Pin From Net: NetName=VC35 Pin=IC3-4
+Removed Pin From Net: NetName=VC34 Pin=IC3-5
+Removed Pin From Net: NetName=VC33 Pin=IC3-6
+Removed Pin From Net: NetName=VC32 Pin=IC3-7
+Removed Pin From Net: NetName=VC31 Pin=IC3-8
+Removed Pin From Net: NetName=VC30 Pin=IC3-9
+Removed Pin From Net: NetName=VC29 Pin=IC3-10
+Removed Pin From Net: NetName=VC28 Pin=IC3-11
+Removed Pin From Net: NetName=GND Pin=IC3-12
+Removed Pin From Net: NetName=VC27 Pin=IC3-13
+Removed Pin From Net: NetName=VC26 Pin=IC3-14
+Removed Pin From Net: NetName=PB10/G3 Pin=IC3-18
+Removed Pin From Net: NetName=PB10/G3 Pin=IC3-19
+Removed Pin From Net: NetName=+5 Pin=IC3-24
+Removed Pin From Net: NetName=VC51 Pin=IC4-1
+Removed Pin From Net: NetName=VC50 Pin=IC4-2
+Removed Pin From Net: NetName=VC49 Pin=IC4-3
+Removed Pin From Net: NetName=VC48 Pin=IC4-4
+Removed Pin From Net: NetName=VC47 Pin=IC4-5
+Removed Pin From Net: NetName=VC46 Pin=IC4-6
+Removed Pin From Net: NetName=VC45 Pin=IC4-7
+Removed Pin From Net: NetName=VC44 Pin=IC4-8
+Removed Pin From Net: NetName=VC43 Pin=IC4-9
+Removed Pin From Net: NetName=VC42 Pin=IC4-10
+Removed Pin From Net: NetName=VC41 Pin=IC4-11
+Removed Pin From Net: NetName=GND Pin=IC4-12
+Removed Pin From Net: NetName=VC40 Pin=IC4-13
+Removed Pin From Net: NetName=VC39 Pin=IC4-14
+Removed Pin From Net: NetName=PB11/G4 Pin=IC4-18
+Removed Pin From Net: NetName=PB11/G4 Pin=IC4-19
+Removed Pin From Net: NetName=+5 Pin=IC4-24
+Removed Pin From Net: NetName=RX-340 Pin=R20-1
+Removed Pin From Net: NetName=NetLED5_2 Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=NetR24_2 Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=ADC8 Pin=R38-2
+Removed Pin From Net: NetName=NetLED10_1 Pin=R40-1
+Removed Pin From Net: NetName=3.3V Pin=R40-2
+Change component parameters: Designator = "V1"; Footprint = "SOT223_L"; UniqueID = "\MLOVCGDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "欢迎光临淘宝店铺"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "V2"; Footprint = "SOT223_L"; UniqueID = "\BYMVVVUV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "欢迎光临淘宝店铺"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "V3"; Footprint = "SOT223_L"; UniqueID = "\BFBOVBPQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "欢迎光临淘宝店铺"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "CD75"; UniqueID = "\UBMAHCTF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CON1"; Footprint = "DC-005"; UniqueID = "\VBQBDGYR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "DC电源接口"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "FU 1812"; UniqueID = "\MWDEOBFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片保险丝"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2"; Footprint = "SOP24_N"; UniqueID = "\CDUHMSVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4线转16线译码器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1"; Footprint = "HDR2.54-M-LI-8P"; UniqueID = "\UQKLFLPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP3"; Footprint = "HDR2.54-WI-4P"; UniqueID = "\DHNHXTXM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP4"; Footprint = "FPC1.0-2H-WS-22P"; UniqueID = "\VMEYUBJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP5"; Footprint = "FPC1.0-2H-WS-22P"; UniqueID = "\FRIDMFVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP6"; Footprint = "FPC1.0-2H-WS-26P"; UniqueID = "\YHJUJWUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP7"; Footprint = "FPC1.0-2H-WS-26P"; UniqueID = "\JXXULVEL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP8"; Footprint = "HDR2.54-M-LI-7P"; UniqueID = "\POQIGMTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "7P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1"; Footprint = "LED 0805R"; UniqueID = "\FMDOAQRP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2"; Footprint = "LED 0805G"; UniqueID = "\TRUXAJLC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3"; Footprint = "LED 0805B"; UniqueID = "\RVUIPGBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED4"; Footprint = "LED 0805B"; UniqueID = "\UFYFBCQE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED5"; Footprint = "LED 0805G"; UniqueID = "\GDMOUYGT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED6"; Footprint = "LED 0805R"; UniqueID = "\VRIUUYDE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED7"; Footprint = "LED 0805R"; UniqueID = "\NUHOEALD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED8"; Footprint = "LED 0805R"; UniqueID = "\GUDVWCTO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED9"; Footprint = "LED 0805R"; UniqueID = "\GSIBWKND"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED10"; Footprint = "LED 0805R"; UniqueID = "\OVPTPHCE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "TSW SMD-3*6*2.5"; UniqueID = "\MESERQHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1"; Footprint = "USB-B/S_A"; UniqueID = "\JAQODBYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "USB-B型母接口"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1"; Footprint = "OSC 5032-2P"; UniqueID = "\JBFCOMTM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2脚无源脚晶振"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E1"; Footprint = "CM D(6.3*5.4)"; UniqueID = "\QMQAJHUE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RCA-8P4R-0603"; UniqueID = "\OXPSHEQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RCA-8P4R-0603"; UniqueID = "\RRRVADEU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RCA-8P4R-0603"; UniqueID = "\LEJDLYNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RCA-8P4R-0603"; UniqueID = "\XJCCNXTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RCA-8P4R-0603"; UniqueID = "\YRLDFBSR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "RCA-8P4R-0603"; UniqueID = "\LJFQMFEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "RCA-8P4R-0603"; UniqueID = "\FUACJLXB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "RCA-8P4R-0603"; UniqueID = "\DINTWRUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36"; Footprint = "RCA-8P4R-0603"; UniqueID = "\CGLDYWOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "RCA-8P4R-0603"; UniqueID = "\XXMPQABR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39"; Footprint = "RCA-8P4R-0603"; UniqueID = "\NRHNWBCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45"; Footprint = "RCA-8P4R-0603"; UniqueID = "\TWMIRWLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RP1"; Footprint = "3303W"; UniqueID = "\YGAHMUCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电位器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CE1"; Footprint = "CAP 5.0*10*16"; UniqueID = "\XJHCMJVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E2"; Footprint = "CD A(3216)"; UniqueID = "\DXEEBLKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E3"; Footprint = "CD A(3216)"; UniqueID = "\PLQSCGBH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E4"; Footprint = "CD A(3216)"; UniqueID = "\AHLRRLGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E5"; Footprint = "CD A(3216)"; UniqueID = "\CFAOBCTQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E6"; Footprint = "CD A(3216)"; UniqueID = "\SJVSUFSP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "E7"; Footprint = "CD A(3216)"; UniqueID = "\GWWGIULB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0805_L"; UniqueID = "\JNJBKVHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R 0805_L"; UniqueID = "\JIIVRPDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R 0805_L"; UniqueID = "\ORJHSTRA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R 0805_L"; UniqueID = "\CWGAMPOQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "R 0805_L"; UniqueID = "\QLVTWEND"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "R 0805_L"; UniqueID = "\VCOSACNJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "R 0805_L"; UniqueID = "\DMFUERCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "R 0805_L"; UniqueID = "\MUOMLYFA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "R 0805_L"; UniqueID = "\TJYNEUKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "R 0805_L"; UniqueID = "\AQXKFRDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "R 0805_L"; UniqueID = "\NMOGEBBB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "R 0805_L"; UniqueID = "\BSHGGSQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "R 0805_L"; UniqueID = "\FSBORANW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43"; Footprint = "R 0805_L"; UniqueID = "\BGNDJQFO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44"; Footprint = "R 0805_L"; UniqueID = "\KBIBPCUX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SMA"; UniqueID = "\NYAQGYIX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "SMA"; UniqueID = "\JELWQMLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "C 0805_L"; UniqueID = "\GGJVEWXN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "C 0805_L"; UniqueID = "\HKMAWPAP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "C 0805_L"; UniqueID = "\KWINPWIP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "C 0805_L"; UniqueID = "\SNKMRNPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "C 0805_L"; UniqueID = "\MTICDDAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "C 0805_L"; UniqueID = "\PXULAEUT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "C 0805_L"; UniqueID = "\WYDUJAJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "C 0805_L"; UniqueID = "\QJWANDKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "C 0805_L"; UniqueID = "\DHEYIJDC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "C 0805_L"; UniqueID = "\QOAXJJTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "C 0805_L"; UniqueID = "\PYHTSNOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32"; Footprint = "C 0805_L"; UniqueID = "\HIIERSWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP24_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4线转16线译码器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOP24_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4线转16线译码器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOP24_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4线转16线译码器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-LI-7P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "7P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R 0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VC12 Pin=IC1-1
+Added Pin To Net: NetName=VC11 Pin=IC1-2
+Added Pin To Net: NetName=VC10 Pin=IC1-3
+Added Pin To Net: NetName=VC9 Pin=IC1-4
+Added Pin To Net: NetName=VC8 Pin=IC1-5
+Added Pin To Net: NetName=VC7 Pin=IC1-6
+Added Pin To Net: NetName=VC6 Pin=IC1-7
+Added Pin To Net: NetName=VC5 Pin=IC1-8
+Added Pin To Net: NetName=VC4 Pin=IC1-9
+Added Pin To Net: NetName=VC3 Pin=IC1-10
+Added Pin To Net: NetName=VC2 Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=VC1 Pin=IC1-13
+Added Pin To Net: NetName=VC0 Pin=IC1-14
+Added Pin To Net: NetName=PB8/G1 Pin=IC1-18
+Added Pin To Net: NetName=PB8/G1 Pin=IC1-19
+Added Pin To Net: NetName=+5 Pin=IC1-24
+Added Pin To Net: NetName=VC38 Pin=IC3-1
+Added Pin To Net: NetName=VC37 Pin=IC3-2
+Added Pin To Net: NetName=VC36 Pin=IC3-3
+Added Pin To Net: NetName=VC35 Pin=IC3-4
+Added Pin To Net: NetName=VC34 Pin=IC3-5
+Added Pin To Net: NetName=VC33 Pin=IC3-6
+Added Pin To Net: NetName=VC32 Pin=IC3-7
+Added Pin To Net: NetName=VC31 Pin=IC3-8
+Added Pin To Net: NetName=VC30 Pin=IC3-9
+Added Pin To Net: NetName=VC29 Pin=IC3-10
+Added Pin To Net: NetName=VC28 Pin=IC3-11
+Added Pin To Net: NetName=GND Pin=IC3-12
+Added Pin To Net: NetName=VC27 Pin=IC3-13
+Added Pin To Net: NetName=VC26 Pin=IC3-14
+Added Pin To Net: NetName=PB10/G3 Pin=IC3-18
+Added Pin To Net: NetName=PB10/G3 Pin=IC3-19
+Added Pin To Net: NetName=+5 Pin=IC3-24
+Added Pin To Net: NetName=VC51 Pin=IC4-1
+Added Pin To Net: NetName=VC50 Pin=IC4-2
+Added Pin To Net: NetName=VC49 Pin=IC4-3
+Added Pin To Net: NetName=VC48 Pin=IC4-4
+Added Pin To Net: NetName=VC47 Pin=IC4-5
+Added Pin To Net: NetName=VC46 Pin=IC4-6
+Added Pin To Net: NetName=VC45 Pin=IC4-7
+Added Pin To Net: NetName=VC44 Pin=IC4-8
+Added Pin To Net: NetName=VC43 Pin=IC4-9
+Added Pin To Net: NetName=VC42 Pin=IC4-10
+Added Pin To Net: NetName=VC41 Pin=IC4-11
+Added Pin To Net: NetName=GND Pin=IC4-12
+Added Pin To Net: NetName=VC40 Pin=IC4-13
+Added Pin To Net: NetName=VC39 Pin=IC4-14
+Added Pin To Net: NetName=PB11/G4 Pin=IC4-18
+Added Pin To Net: NetName=PB11/G4 Pin=IC4-19
+Added Pin To Net: NetName=+5 Pin=IC4-24
+Added Pin To Net: NetName=RX-340 Pin=R20-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=ADC8 Pin=R38-2
+Added Pin To Net: NetName=NetLED10_1 Pin=R40-1
+Added Pin To Net: NetName=3.3V Pin=R40-2
+Change Net Name : Old Net Name=PB12/SDL/D0 New Net Name=PB12/SCL/D0
+Change Net Name : Old Net Name=PB13/SCA/D1 New Net Name=PB13/SDA/D1
+Change Net Name : Old Net Name=RUN New Net Name=PC5/RUN
+Change Net Name : Old Net Name=Tongxin New Net Name=PC4/Tongxin
+Added Pin To Net: NetName=PA15/D Pin=IC1-20
+Added Pin To Net: NetName=PA15/D Pin=IC2-20
+Added Pin To Net: NetName=PA15/D Pin=IC3-20
+Added Pin To Net: NetName=PA15/D Pin=IC4-20
+Added Pin To Net: NetName=PA15/D Pin=U2-50
+Added Net: Name=PA15/D
+Added Pin To Net: NetName=PC10/C Pin=IC1-21
+Added Pin To Net: NetName=PC10/C Pin=IC2-21
+Added Pin To Net: NetName=PC10/C Pin=IC3-21
+Added Pin To Net: NetName=PC10/C Pin=IC4-21
+Added Pin To Net: NetName=PC10/C Pin=U2-51
+Added Net: Name=PC10/C
+Added Pin To Net: NetName=PC11/B Pin=IC1-22
+Added Pin To Net: NetName=PC11/B Pin=IC2-22
+Added Pin To Net: NetName=PC11/B Pin=IC3-22
+Added Pin To Net: NetName=PC11/B Pin=IC4-22
+Added Pin To Net: NetName=PC11/B Pin=U2-52
+Added Net: Name=PC11/B
+Added Pin To Net: NetName=PC12/A Pin=IC1-23
+Added Pin To Net: NetName=PC12/A Pin=IC2-23
+Added Pin To Net: NetName=PC12/A Pin=IC3-23
+Added Pin To Net: NetName=PC12/A Pin=IC4-23
+Added Pin To Net: NetName=PC12/A Pin=U2-53
+Added Net: Name=PC12/A
+Added Member To Class: ClassName=Sheet2 Member=Component JP2 HDR-1X7
+Added Room: Name=Sheet2

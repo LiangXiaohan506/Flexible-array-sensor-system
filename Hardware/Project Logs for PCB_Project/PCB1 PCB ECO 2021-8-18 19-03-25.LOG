@@ -1,0 +1,445 @@
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+5 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=+5 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=+5 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=+5 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=+5 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=+5 Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=+5 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+5 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=YC0 Pin=JP4-1
+Removed Pin From Net: NetName=YC1 Pin=JP4-2
+Removed Pin From Net: NetName=YC2 Pin=JP4-3
+Removed Pin From Net: NetName=YC3 Pin=JP4-4
+Removed Pin From Net: NetName=YC4 Pin=JP4-5
+Removed Pin From Net: NetName=YC5 Pin=JP4-6
+Removed Pin From Net: NetName=YC6 Pin=JP4-7
+Removed Pin From Net: NetName=YC7 Pin=JP4-8
+Removed Pin From Net: NetName=YC8 Pin=JP4-9
+Removed Pin From Net: NetName=YC9 Pin=JP4-10
+Removed Pin From Net: NetName=YC10 Pin=JP4-11
+Removed Pin From Net: NetName=YC11 Pin=JP4-12
+Removed Pin From Net: NetName=YC12 Pin=JP4-13
+Removed Pin From Net: NetName=YC13 Pin=JP4-14
+Removed Pin From Net: NetName=YC14 Pin=JP4-15
+Removed Pin From Net: NetName=YC15 Pin=JP4-16
+Removed Pin From Net: NetName=YC16 Pin=JP4-17
+Removed Pin From Net: NetName=YC17 Pin=JP4-18
+Removed Pin From Net: NetName=YC18 Pin=JP4-19
+Removed Pin From Net: NetName=YC19 Pin=JP4-20
+Removed Pin From Net: NetName=YC20 Pin=JP4-21
+Removed Pin From Net: NetName=YC21 Pin=JP4-22
+Removed Pin From Net: NetName=YC22 Pin=JP5-1
+Removed Pin From Net: NetName=YC23 Pin=JP5-2
+Removed Pin From Net: NetName=YC24 Pin=JP5-3
+Removed Pin From Net: NetName=YC25 Pin=JP5-4
+Removed Pin From Net: NetName=YC26 Pin=JP5-5
+Removed Pin From Net: NetName=YC27 Pin=JP5-6
+Removed Pin From Net: NetName=YC28 Pin=JP5-7
+Removed Pin From Net: NetName=YC29 Pin=JP5-8
+Removed Pin From Net: NetName=YC30 Pin=JP5-9
+Removed Pin From Net: NetName=YC31 Pin=JP5-10
+Removed Pin From Net: NetName=YC32 Pin=JP5-11
+Removed Pin From Net: NetName=YC33 Pin=JP5-12
+Removed Pin From Net: NetName=YC34 Pin=JP5-13
+Removed Pin From Net: NetName=YC35 Pin=JP5-14
+Removed Pin From Net: NetName=YC36 Pin=JP5-15
+Removed Pin From Net: NetName=YC37 Pin=JP5-16
+Removed Pin From Net: NetName=YC38 Pin=JP5-17
+Removed Pin From Net: NetName=YC39 Pin=JP5-18
+Removed Pin From Net: NetName=YC40 Pin=JP5-19
+Removed Pin From Net: NetName=YC41 Pin=JP5-20
+Removed Pin From Net: NetName=YC42 Pin=JP5-21
+Removed Pin From Net: NetName=YC43 Pin=JP5-22
+Removed Pin From Net: NetName=PB4/S0 Pin=U2-56
+Removed Pin From Net: NetName=ADC1 Pin=U3-1
+Removed Pin From Net: NetName=YC4 Pin=U3-6
+Removed Pin From Net: NetName=YC5 Pin=U3-7
+Removed Pin From Net: NetName=YC6 Pin=U3-8
+Removed Pin From Net: NetName=YC7 Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U3-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U3-13
+Removed Pin From Net: NetName=GND Pin=U3-15
+Removed Pin From Net: NetName=+5 Pin=U3-24
+Removed Pin From Net: NetName=ADC2 Pin=U4-1
+Removed Pin From Net: NetName=YC8 Pin=U4-6
+Removed Pin From Net: NetName=YC9 Pin=U4-7
+Removed Pin From Net: NetName=YC10 Pin=U4-8
+Removed Pin From Net: NetName=YC11 Pin=U4-9
+Removed Pin From Net: NetName=GND Pin=U4-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U4-13
+Removed Pin From Net: NetName=GND Pin=U4-15
+Removed Pin From Net: NetName=+5 Pin=U4-24
+Removed Pin From Net: NetName=ADC3 Pin=U7-1
+Removed Pin From Net: NetName=YC12 Pin=U7-6
+Removed Pin From Net: NetName=YC13 Pin=U7-7
+Removed Pin From Net: NetName=YC14 Pin=U7-8
+Removed Pin From Net: NetName=YC15 Pin=U7-9
+Removed Pin From Net: NetName=GND Pin=U7-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U7-13
+Removed Pin From Net: NetName=GND Pin=U7-15
+Removed Pin From Net: NetName=+5 Pin=U7-24
+Removed Pin From Net: NetName=ADC4 Pin=U9-1
+Removed Pin From Net: NetName=YC16 Pin=U9-6
+Removed Pin From Net: NetName=YC17 Pin=U9-7
+Removed Pin From Net: NetName=YC18 Pin=U9-8
+Removed Pin From Net: NetName=YC19 Pin=U9-9
+Removed Pin From Net: NetName=GND Pin=U9-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U9-13
+Removed Pin From Net: NetName=GND Pin=U9-15
+Removed Pin From Net: NetName=+5 Pin=U9-24
+Removed Pin From Net: NetName=ADC5 Pin=U11-1
+Removed Pin From Net: NetName=YC20 Pin=U11-6
+Removed Pin From Net: NetName=YC21 Pin=U11-7
+Removed Pin From Net: NetName=YC22 Pin=U11-8
+Removed Pin From Net: NetName=YC23 Pin=U11-9
+Removed Pin From Net: NetName=GND Pin=U11-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U11-13
+Removed Pin From Net: NetName=GND Pin=U11-15
+Removed Pin From Net: NetName=+5 Pin=U11-24
+Removed Pin From Net: NetName=ADC6 Pin=U14-1
+Removed Pin From Net: NetName=YC24 Pin=U14-6
+Removed Pin From Net: NetName=YC25 Pin=U14-7
+Removed Pin From Net: NetName=YC26 Pin=U14-8
+Removed Pin From Net: NetName=YC27 Pin=U14-9
+Removed Pin From Net: NetName=GND Pin=U14-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U14-13
+Removed Pin From Net: NetName=GND Pin=U14-15
+Removed Pin From Net: NetName=+5 Pin=U14-24
+Removed Pin From Net: NetName=ADC7 Pin=U17-1
+Removed Pin From Net: NetName=YC28 Pin=U17-6
+Removed Pin From Net: NetName=YC29 Pin=U17-7
+Removed Pin From Net: NetName=YC30 Pin=U17-8
+Removed Pin From Net: NetName=YC31 Pin=U17-9
+Removed Pin From Net: NetName=GND Pin=U17-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U17-13
+Removed Pin From Net: NetName=GND Pin=U17-15
+Removed Pin From Net: NetName=+5 Pin=U17-24
+Removed Pin From Net: NetName=ADC8 Pin=U19-1
+Removed Pin From Net: NetName=YC32 Pin=U19-6
+Removed Pin From Net: NetName=YC33 Pin=U19-7
+Removed Pin From Net: NetName=YC34 Pin=U19-8
+Removed Pin From Net: NetName=YC35 Pin=U19-9
+Removed Pin From Net: NetName=GND Pin=U19-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U19-13
+Removed Pin From Net: NetName=GND Pin=U19-15
+Removed Pin From Net: NetName=+5 Pin=U19-24
+Removed Pin From Net: NetName=ADC9 Pin=U21-1
+Removed Pin From Net: NetName=YC36 Pin=U21-6
+Removed Pin From Net: NetName=YC37 Pin=U21-7
+Removed Pin From Net: NetName=YC38 Pin=U21-8
+Removed Pin From Net: NetName=YC39 Pin=U21-9
+Removed Pin From Net: NetName=GND Pin=U21-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U21-13
+Removed Pin From Net: NetName=GND Pin=U21-15
+Removed Pin From Net: NetName=+5 Pin=U21-24
+Removed Pin From Net: NetName=ADC10 Pin=U22-1
+Removed Pin From Net: NetName=YC40 Pin=U22-6
+Removed Pin From Net: NetName=YC41 Pin=U22-7
+Removed Pin From Net: NetName=YC42 Pin=U22-8
+Removed Pin From Net: NetName=YC43 Pin=U22-9
+Removed Pin From Net: NetName=GND Pin=U22-12
+Removed Pin From Net: NetName=PB7/S3 Pin=U22-13
+Removed Pin From Net: NetName=GND Pin=U22-15
+Removed Pin From Net: NetName=+5 Pin=U22-24
+Change Component Footprint: Designator=C5 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C10 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C13 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C16 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C17 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C20 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C23 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C26 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C29 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=C30 Old Footprint=C 0805_L New Footprint=0805C
+Change Component Footprint: Designator=U3 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U4 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U7 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U9 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U11 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U14 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U17 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U19 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U21 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Footprint: Designator=U22 Old Footprint=SSOP24_L New Footprint=TSSOP16_N
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C16 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C17 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C20 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C23 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C26 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C29 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=C30 Old Comment=104 New Comment=0805-50V-104
+Change Component Comment : Designator=U3 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U4 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U7 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U9 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U11 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U14 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U17 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U19 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U21 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change Component Comment : Designator=U22 Old Comment=CD74HC4067 New Comment=74HC4051PW
+Change component parameters: Designator = "C5"; Footprint = "0805C"; UniqueID = "\OUGNQAJF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "0805C"; UniqueID = "\EFAVTKMD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "0805C"; UniqueID = "\HSSYEOCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "0805C"; UniqueID = "\MFNXDJNI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "0805C"; UniqueID = "\GXUEGWHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "0805C"; UniqueID = "\UJPWHCRQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "0805C"; UniqueID = "\GUHBCRFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "0805C"; UniqueID = "\IYQPRQUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "0805C"; UniqueID = "\MWPUXWOO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "0805C"; UniqueID = "\QLPDUDYP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=YC21 Pin=JP4-1
+Added Pin To Net: NetName=YC20 Pin=JP4-2
+Added Pin To Net: NetName=YC19 Pin=JP4-3
+Added Pin To Net: NetName=YC18 Pin=JP4-4
+Added Pin To Net: NetName=YC17 Pin=JP4-5
+Added Pin To Net: NetName=YC16 Pin=JP4-6
+Added Pin To Net: NetName=YC15 Pin=JP4-7
+Added Pin To Net: NetName=YC14 Pin=JP4-8
+Added Pin To Net: NetName=YC13 Pin=JP4-9
+Added Pin To Net: NetName=YC12 Pin=JP4-10
+Added Pin To Net: NetName=YC11 Pin=JP4-11
+Added Pin To Net: NetName=YC10 Pin=JP4-12
+Added Pin To Net: NetName=YC9 Pin=JP4-13
+Added Pin To Net: NetName=YC8 Pin=JP4-14
+Added Pin To Net: NetName=YC7 Pin=JP4-15
+Added Pin To Net: NetName=YC6 Pin=JP4-16
+Added Pin To Net: NetName=YC5 Pin=JP4-17
+Added Pin To Net: NetName=YC4 Pin=JP4-18
+Added Pin To Net: NetName=YC3 Pin=JP4-19
+Added Pin To Net: NetName=YC2 Pin=JP4-20
+Added Pin To Net: NetName=YC1 Pin=JP4-21
+Added Pin To Net: NetName=YC0 Pin=JP4-22
+Added Pin To Net: NetName=YC43 Pin=JP5-1
+Added Pin To Net: NetName=YC42 Pin=JP5-2
+Added Pin To Net: NetName=YC41 Pin=JP5-3
+Added Pin To Net: NetName=YC40 Pin=JP5-4
+Added Pin To Net: NetName=YC39 Pin=JP5-5
+Added Pin To Net: NetName=YC38 Pin=JP5-6
+Added Pin To Net: NetName=YC37 Pin=JP5-7
+Added Pin To Net: NetName=YC36 Pin=JP5-8
+Added Pin To Net: NetName=YC35 Pin=JP5-9
+Added Pin To Net: NetName=YC34 Pin=JP5-10
+Added Pin To Net: NetName=YC33 Pin=JP5-11
+Added Pin To Net: NetName=YC32 Pin=JP5-12
+Added Pin To Net: NetName=YC31 Pin=JP5-13
+Added Pin To Net: NetName=YC30 Pin=JP5-14
+Added Pin To Net: NetName=YC29 Pin=JP5-15
+Added Pin To Net: NetName=YC28 Pin=JP5-16
+Added Pin To Net: NetName=YC27 Pin=JP5-17
+Added Pin To Net: NetName=YC26 Pin=JP5-18
+Added Pin To Net: NetName=YC25 Pin=JP5-19
+Added Pin To Net: NetName=YC24 Pin=JP5-20
+Added Pin To Net: NetName=YC23 Pin=JP5-21
+Added Pin To Net: NetName=YC22 Pin=JP5-22
+Added Pin To Net: NetName=CV18 Pin=R44-1
+Added Pin To Net: NetName=PB4/S0 Pin=U1-10
+Added Pin To Net: NetName=PB4/S0 Pin=U2-58
+Added Pin To Net: NetName=ADC1 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=PB7/S3 Pin=U3-9
+Added Pin To Net: NetName=YC7 Pin=U3-12
+Added Pin To Net: NetName=YC6 Pin=U3-13
+Added Pin To Net: NetName=YC5 Pin=U3-14
+Added Pin To Net: NetName=YC4 Pin=U3-15
+Added Pin To Net: NetName=+5 Pin=U3-16
+Added Pin To Net: NetName=ADC2 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=PB7/S3 Pin=U4-9
+Added Pin To Net: NetName=YC11 Pin=U4-12
+Added Pin To Net: NetName=YC10 Pin=U4-13
+Added Pin To Net: NetName=YC9 Pin=U4-14
+Added Pin To Net: NetName=YC8 Pin=U4-15
+Added Pin To Net: NetName=+5 Pin=U4-16
+Added Pin To Net: NetName=ADC3 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=PB7/S3 Pin=U7-9
+Added Pin To Net: NetName=YC15 Pin=U7-12
+Added Pin To Net: NetName=YC14 Pin=U7-13
+Added Pin To Net: NetName=YC13 Pin=U7-14
+Added Pin To Net: NetName=YC12 Pin=U7-15
+Added Pin To Net: NetName=+5 Pin=U7-16
+Added Pin To Net: NetName=ADC4 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=PB7/S3 Pin=U9-9
+Added Pin To Net: NetName=YC19 Pin=U9-12
+Added Pin To Net: NetName=YC18 Pin=U9-13
+Added Pin To Net: NetName=YC17 Pin=U9-14
+Added Pin To Net: NetName=YC16 Pin=U9-15
+Added Pin To Net: NetName=+5 Pin=U9-16
+Added Pin To Net: NetName=CV18 Pin=U10-2
+Added Pin To Net: NetName=ADC5 Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Pin To Net: NetName=GND Pin=U11-8
+Added Pin To Net: NetName=PB7/S3 Pin=U11-9
+Added Pin To Net: NetName=YC23 Pin=U11-12
+Added Pin To Net: NetName=YC22 Pin=U11-13
+Added Pin To Net: NetName=YC21 Pin=U11-14
+Added Pin To Net: NetName=YC20 Pin=U11-15
+Added Pin To Net: NetName=+5 Pin=U11-16
+Added Pin To Net: NetName=ADC6 Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U14-6
+Added Pin To Net: NetName=GND Pin=U14-7
+Added Pin To Net: NetName=GND Pin=U14-8
+Added Pin To Net: NetName=PB7/S3 Pin=U14-9
+Added Pin To Net: NetName=YC27 Pin=U14-12
+Added Pin To Net: NetName=YC26 Pin=U14-13
+Added Pin To Net: NetName=YC25 Pin=U14-14
+Added Pin To Net: NetName=YC24 Pin=U14-15
+Added Pin To Net: NetName=+5 Pin=U14-16
+Added Pin To Net: NetName=ADC7 Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-6
+Added Pin To Net: NetName=GND Pin=U17-7
+Added Pin To Net: NetName=GND Pin=U17-8
+Added Pin To Net: NetName=PB7/S3 Pin=U17-9
+Added Pin To Net: NetName=YC31 Pin=U17-12
+Added Pin To Net: NetName=YC30 Pin=U17-13
+Added Pin To Net: NetName=YC29 Pin=U17-14
+Added Pin To Net: NetName=YC28 Pin=U17-15
+Added Pin To Net: NetName=+5 Pin=U17-16
+Added Pin To Net: NetName=ADC8 Pin=U19-3
+Added Pin To Net: NetName=GND Pin=U19-6
+Added Pin To Net: NetName=GND Pin=U19-7
+Added Pin To Net: NetName=GND Pin=U19-8
+Added Pin To Net: NetName=PB7/S3 Pin=U19-9
+Added Pin To Net: NetName=YC35 Pin=U19-12
+Added Pin To Net: NetName=YC34 Pin=U19-13
+Added Pin To Net: NetName=YC33 Pin=U19-14
+Added Pin To Net: NetName=YC32 Pin=U19-15
+Added Pin To Net: NetName=+5 Pin=U19-16
+Added Pin To Net: NetName=ADC9 Pin=U21-3
+Added Pin To Net: NetName=GND Pin=U21-6
+Added Pin To Net: NetName=GND Pin=U21-7
+Added Pin To Net: NetName=GND Pin=U21-8
+Added Pin To Net: NetName=PB7/S3 Pin=U21-9
+Added Pin To Net: NetName=YC39 Pin=U21-12
+Added Pin To Net: NetName=YC38 Pin=U21-13
+Added Pin To Net: NetName=YC37 Pin=U21-14
+Added Pin To Net: NetName=YC36 Pin=U21-15
+Added Pin To Net: NetName=+5 Pin=U21-16
+Added Pin To Net: NetName=ADC10 Pin=U22-3
+Added Pin To Net: NetName=GND Pin=U22-6
+Added Pin To Net: NetName=GND Pin=U22-7
+Added Pin To Net: NetName=GND Pin=U22-8
+Added Pin To Net: NetName=PB7/S3 Pin=U22-9
+Added Pin To Net: NetName=YC43 Pin=U22-12
+Added Pin To Net: NetName=YC42 Pin=U22-13
+Added Pin To Net: NetName=YC41 Pin=U22-14
+Added Pin To Net: NetName=YC40 Pin=U22-15
+Added Pin To Net: NetName=+5 Pin=U22-16
+Change Net Name : Old Net Name=PB4/S0 New Net Name=PB6/S2
+Added Room: Name=Sheet2

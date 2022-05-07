@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=OLED1-1
+Removed Pin From Net: NetName=3.3V Pin=OLED1-2
+Removed Pin From Net: NetName=PC6/SDL/D0 Pin=OLED1-3
+Removed Pin From Net: NetName=PC7/SCA/D1 Pin=OLED1-4
+Removed Pin From Net: NetName=PC8/RES Pin=OLED1-5
+Removed Pin From Net: NetName=PC9/DC Pin=OLED1-6
+Removed Pin From Net: NetName=PA8/CS Pin=OLED1-7
+Removed Pin From Net: NetName=RUN Pin=U2-2
+Removed Pin From Net: NetName=Tongxin Pin=U2-55
+Removed Member From Class: ClassName=Sheet2 Member=OLED1
+Added Component: Designator=JP8(XH2.54-WI-7P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "7P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP8-1
+Added Pin To Net: NetName=3.3V Pin=JP8-2
+Added Pin To Net: NetName=PC6/SDL/D0 Pin=JP8-3
+Added Pin To Net: NetName=PC7/SCA/D1 Pin=JP8-4
+Added Pin To Net: NetName=PC8/RES Pin=JP8-5
+Added Pin To Net: NetName=PC9/DC Pin=JP8-6
+Added Pin To Net: NetName=PA8/CS Pin=JP8-7
+Added Pin To Net: NetName=Tongxin Pin=U2-24
+Added Pin To Net: NetName=RUN Pin=U2-25
+Added Member To Class: ClassName=Sheet2 Member=Component JP8 HDR-1X7
+Added Room: Name=Sheet2

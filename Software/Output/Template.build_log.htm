@@ -1,0 +1,101 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.35.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 123 曲阜师范大学工学院, 123, LIC=1WSKC-7I4ZH-E06N4-F0U4E-IDFAZ-JUKW8
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.35.0.2
+Toolchain Path:  D:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.35.0.2
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      Segger\JL2CM3.dll V2.99.40.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+C:\Users\曲阜师范大学工学院\Desktop\柔性传感器\w5500模块资料\1-W5500模块配套程序\F103_指南者开发板\1.Network install\Project\RVMDK（uv5）\iSO-STM32.uvprojx
+Project File Date:  11/12/2021
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Template'
+Note: source file '..\..\User\led\bsp_led.c' - object file renamed from '..\..\Output\bsp_led.o' to '..\..\Output\bsp_led_1.o'.
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_exti.c...
+compiling misc.c...
+compiling system_stm32f10x.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_tim.c...
+compiling main.c...
+..\..\User\main.c(105): warning:  #1295-D: Deprecated declaration DMA_Adc_collect - give arg types
+  void DMA_Adc_collect();//DMA_adc采集函数
+..\..\User\main.c(106): warning:  #1295-D: Deprecated declaration Uart1_send - give arg types
+  void Uart1_send();//串口发送函数
+..\..\User\main.c(107): warning:  #1295-D: Deprecated declaration W5500_send - give arg types
+  void W5500_send();//w5500发送函数
+..\..\User\main.c(205): warning:  #177-D: variable "n"  was declared but never referenced
+  	u8 i,m,n,k;
+..\..\User\main.c(205): warning:  #177-D: variable "k"  was declared but never referenced
+  	u8 i,m,n,k;
+..\..\User\main.c(238): warning:  #177-D: variable "num"  was declared but never referenced
+  	u8 num = 0;
+..\..\User\main.c: 6 warnings, 0 errors
+compiling stm32f10x_it.c...
+compiling bsp_usart1.c...
+compiling bsp_led.c...
+compiling bsp_i2c_ee.c...
+compiling bsp_TiMbase.c...
+compiling w5500_conf.c...
+compiling bsp_i2c_gpio.c...
+compiling w5500.c...
+compiling socket.c...
+compiling utility.c...
+compiling DMA_ADC.C...
+compiling tcp_demo.c...
+compiling dhcp.c...
+linking...
+Program Size: Code=23556 RO-data=336 RW-data=280 ZI-data=26200  
+FromELF: creating hex file...
+"..\..\Output\Template.axf" - 0 Error(s), 6 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.1.0.pack
+                Keil.STM32F1xx_DFP.2.1.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Template
+  D:\Keil_v5\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  D:\Keil_v5\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+Build Time Elapsed:  00:00:08
+</pre>
+</body>
+</html>

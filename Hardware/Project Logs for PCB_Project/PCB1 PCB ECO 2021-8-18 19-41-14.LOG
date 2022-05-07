@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=CV4 Pin=R7-1
+Removed Pin From Net: NetName=CV5 Pin=R7-2
+Removed Pin From Net: NetName=CV6 Pin=R7-3
+Removed Pin From Net: NetName=CV7 Pin=R7-4
+Removed Pin From Net: NetName=CV8 Pin=R9-1
+Removed Pin From Net: NetName=CV9 Pin=R9-2
+Removed Pin From Net: NetName=CV10 Pin=R9-3
+Removed Pin From Net: NetName=CV11 Pin=R9-4
+Added Pin To Net: NetName=CV7 Pin=R7-1
+Added Pin To Net: NetName=CV6 Pin=R7-2
+Added Pin To Net: NetName=CV5 Pin=R7-3
+Added Pin To Net: NetName=CV4 Pin=R7-4
+Added Pin To Net: NetName=CV11 Pin=R9-1
+Added Pin To Net: NetName=CV10 Pin=R9-2
+Added Pin To Net: NetName=CV9 Pin=R9-3
+Added Pin To Net: NetName=CV8 Pin=R9-4
+Added Room: Name=Sheet2

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=CV16 Pin=R22-1
+Removed Pin From Net: NetName=CV24 Pin=R28-1
+Removed Pin From Net: NetName=CV25 Pin=R28-2
+Removed Pin From Net: NetName=CV26 Pin=R28-3
+Removed Pin From Net: NetName=CV27 Pin=R28-4
+Removed Pin From Net: NetName=CV17 Pin=R43-1
+Removed Pin From Net: NetName=CV18 Pin=R44-1
+Removed Pin From Net: NetName=CV19 Pin=R45-1
+Removed Pin From Net: NetName=5V-Up Pin=R45-2
+Change Component Footprint: Designator=R45 Old Footprint=R 0805_L New Footprint=RCA-8P4R-0603
+Change Component Footprint: Designator=R28 Old Footprint=RCA-8P4R-0603 New Footprint=R 0805_L
+Change Component Comment : Designator=R45 Old Comment=1K New Comment=103
+Change Component Comment : Designator=R28 Old Comment=103 New Comment=1K
+Change component parameters: Designator = "R28"; Footprint = "R 0805_L"; UniqueID = "\NMOGEBBB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45"; Footprint = "RCA-8P4R-0603"; UniqueID = "\EKWDMVGB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片网络排阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CV24 Pin=R22-1
+Added Pin To Net: NetName=CV25 Pin=R28-1
+Added Pin To Net: NetName=5V-Up Pin=R28-2
+Added Pin To Net: NetName=CV26 Pin=R43-1
+Added Pin To Net: NetName=CV27 Pin=R44-1
+Added Pin To Net: NetName=CV16 Pin=R45-1
+Added Pin To Net: NetName=CV17 Pin=R45-2
+Added Pin To Net: NetName=CV18 Pin=R45-3
+Added Pin To Net: NetName=CV19 Pin=R45-4
+Added Pin To Net: NetName=5V-Up Pin=R45-5
+Added Pin To Net: NetName=5V-Up Pin=R45-6
+Added Pin To Net: NetName=5V-Up Pin=R45-7
+Added Pin To Net: NetName=5V-Up Pin=R45-8
+Added Room: Name=Sheet2

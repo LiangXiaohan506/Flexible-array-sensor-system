@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PA11/G4 Pin=IC4-18
+Added Pin To Net: NetName=PA11/G4 Pin=IC4-19
+Added Pin To Net: NetName=PA11/G4 Pin=U2-44
+Added Net: Name=PA11/G4
+Added Pin To Net: NetName=PA12/G3 Pin=IC3-18
+Added Pin To Net: NetName=PA12/G3 Pin=IC3-19
+Added Pin To Net: NetName=PA12/G3 Pin=U2-45
+Added Net: Name=PA12/G3
+Added Room: Name=Sheet2

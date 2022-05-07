@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3.3V Pin=C15-1
+Removed Pin From Net: NetName=3.3V Pin=U23-16
+Added Pin To Net: NetName=NetR10_2 Pin=C15-1
+Added Pin To Net: NetName=NetR10_2 Pin=U23-16
+Change Net Name : Old Net Name=NetR10_2 New Net Name=USB+
+Added Room: Name=Sheet2

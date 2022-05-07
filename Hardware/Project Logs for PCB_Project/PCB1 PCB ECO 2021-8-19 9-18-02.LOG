@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=PC6/SDL/D0 Pin=JP1-3
+Removed Pin From Net: NetName=PC7/SCA/D1 Pin=JP1-4
+Removed Pin From Net: NetName=PC8/RES Pin=JP1-5
+Removed Pin From Net: NetName=PC9/DC Pin=JP1-6
+Removed Pin From Net: NetName=PC6/SDL/D0 Pin=JP8-3
+Removed Pin From Net: NetName=PC7/SCA/D1 Pin=JP8-4
+Removed Pin From Net: NetName=PC8/RES Pin=JP8-5
+Removed Pin From Net: NetName=PC9/DC Pin=JP8-6
+Removed Pin From Net: NetName=PC6/SDL/D0 Pin=U2-37
+Removed Pin From Net: NetName=PC7/SCA/D1 Pin=U2-38
+Removed Pin From Net: NetName=PC8/RES Pin=U2-39
+Removed Pin From Net: NetName=PC9/DC Pin=U2-40
+Removed Pin From Net: NetName=PA8/CS Pin=U2-41
+Added Pin To Net: NetName=PC9/DC Pin=JP1-3
+Added Pin To Net: NetName=PC8/RES Pin=JP1-4
+Added Pin To Net: NetName=PC7/SCA/D1 Pin=JP1-5
+Added Pin To Net: NetName=PC6/SDL/D0 Pin=JP1-6
+Added Pin To Net: NetName=PC9/DC Pin=JP8-3
+Added Pin To Net: NetName=PC8/RES Pin=JP8-4
+Added Pin To Net: NetName=PC7/SCA/D1 Pin=JP8-5
+Added Pin To Net: NetName=PC6/SDL/D0 Pin=JP8-6
+Added Pin To Net: NetName=PC9/DC Pin=U2-33
+Added Pin To Net: NetName=PC8/RES Pin=U2-34
+Added Pin To Net: NetName=PC7/SCA/D1 Pin=U2-35
+Added Pin To Net: NetName=PC6/SDL/D0 Pin=U2-36
+Added Pin To Net: NetName=PA8/CS Pin=U2-37
+Change Net Name : Old Net Name=PA8/CS New Net Name=PC6/CS
+Change Net Name : Old Net Name=PC6/SDL/D0 New Net Name=PB15/DC
+Change Net Name : Old Net Name=PC7/SCA/D1 New Net Name=PB14/RES
+Change Net Name : Old Net Name=PC8/RES New Net Name=PB13/SCA/D1
+Change Net Name : Old Net Name=PC9/DC New Net Name=PB12/SDL/D0
+Added Room: Name=Sheet2
